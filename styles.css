@@ -1,0 +1,22 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #e9b1c0;
+    color: #9d0f0f;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-shadow: 1px 1px 1px red;
+}
+
+li {
+    list-style-type: none;
+}
+
+h1, h2, h3 {
+    text-shadow: 1px 1px 1px red;
+}
